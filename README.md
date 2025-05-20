@@ -16,34 +16,6 @@ devocoes_html.html	Página com resumo das cinco devoções
 dedicatoria_html.html	Página final com dedicatória e assinatura
 Assinatura_Felipe_Artistica_Segura.png	Assinatura estilizada do autor (não jurídica)
 
-
-
----
-
-Como usar
-
-1. Suba todos os arquivos neste repositório (já estão prontos para GitHub Pages).
-
-
-2. Vá em Settings > Pages.
-
-
-3. Em "Source", selecione:
-
-Branch: main
-
-Pasta: / (root)
-
-
-
-4. Clique em Save.
-
-
-5. O GitHub Pages gerará um link como: https://seuusuario.github.io/nomedorepositorio
-
-
-
-
 ---
 
 Sobre o autor
